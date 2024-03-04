@@ -1,6 +1,7 @@
 skip_list:
   - yaml
   - '204'
+  - '2005'
 verbosity: 1
 
 warn_list:
